@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="227097b6-c1a1-4e84-88fd-4d7315383097" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/review2/CapturePageSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review2/CaptureTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review2/CaptureURL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review3/ClieckingOnLastTwoCheckboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review3/HandlingAuthPopUps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review3/HandlingCheckboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review3/HandlingMultipleCheckboxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review3/HandlingSelectiveCheckboxes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/review1/LaunchApplication2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review1/LaunchApplication2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +53,13 @@
       <recent name="$PROJECT_DIR$/Driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CapturePageSource">
-    <configuration name="CapturePageSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review2.CapturePageSource" />
+  <component name="RunManager" selected="Application.HandlingAuthPopUps">
+    <configuration name="ClieckingOnLastTwoCheckboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review3.ClieckingOnLastTwoCheckboxes" />
       <module name="Selenium Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review2.*" />
+          <option name="PATTERN" value="review3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CaptureTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review2.CaptureTitle" />
+    <configuration name="HandlingAuthPopUps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review3.HandlingAuthPopUps" />
       <module name="Selenium Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review2.*" />
+          <option name="PATTERN" value="review3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CaptureURL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review2.CaptureURL" />
+    <configuration name="HandlingCheckboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review3.HandlingCheckboxes" />
       <module name="Selenium Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review2.*" />
+          <option name="PATTERN" value="review3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LaunchApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review1.LaunchApplication" />
+    <configuration name="HandlingMultipleCheckboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review3.HandlingMultipleCheckboxes" />
       <module name="Selenium Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review1.*" />
+          <option name="PATTERN" value="review3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LaunchApplication2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review1.LaunchApplication2" />
+    <configuration name="HandlingSelectiveCheckboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review3.HandlingSelectiveCheckboxes" />
       <module name="Selenium Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review1.*" />
+          <option name="PATTERN" value="review3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CapturePageSource" />
-        <item itemvalue="Application.CaptureURL" />
-        <item itemvalue="Application.CaptureTitle" />
-        <item itemvalue="Application.LaunchApplication2" />
-        <item itemvalue="Application.LaunchApplication" />
+        <item itemvalue="Application.HandlingAuthPopUps" />
+        <item itemvalue="Application.ClieckingOnLastTwoCheckboxes" />
+        <item itemvalue="Application.HandlingSelectiveCheckboxes" />
+        <item itemvalue="Application.HandlingMultipleCheckboxes" />
+        <item itemvalue="Application.HandlingCheckboxes" />
       </list>
     </recent_temporary>
   </component>
