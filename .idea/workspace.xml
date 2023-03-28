@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="227097b6-c1a1-4e84-88fd-4d7315383097" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/review5/CustomCssSelectors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review5/HandlingDropDown2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review5/HandlingDropDown3WithoutSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/review5/HandlingDropDowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/HandlingDatePicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/HandlingDragDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/HandlingExplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/HandlingIFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/HandlingImplicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/HandlingWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/review6/TakeScreenShots.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium Review.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium Review.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +56,13 @@
       <recent name="$PROJECT_DIR$/Driver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HandlingDropDown3WithoutSelect">
-    <configuration name="ActionsClassHover" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review4.ActionsClassHover" />
+  <component name="RunManager" selected="Application.HandlingExplicitWait">
+    <configuration name="HandlingDatePicker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review6.HandlingDatePicker" />
       <module name="Selenium Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review4.*" />
+          <option name="PATTERN" value="review6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileUpload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review4.FileUpload" />
+    <configuration name="HandlingExplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review6.HandlingExplicitWait" />
       <module name="Selenium Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review4.*" />
+          <option name="PATTERN" value="review6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandlingDropDown2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review5.HandlingDropDown2" />
+    <configuration name="HandlingImplicitWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review6.HandlingImplicitWait" />
       <module name="Selenium Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review5.*" />
+          <option name="PATTERN" value="review6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandlingDropDown3WithoutSelect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review5.HandlingDropDown3WithoutSelect" />
+    <configuration name="HandlingWindows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review6.HandlingWindows" />
       <module name="Selenium Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review5.*" />
+          <option name="PATTERN" value="review6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HandlingDropDowns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review5.HandlingDropDowns" />
+    <configuration name="TakeScreenShots" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="review6.TakeScreenShots" />
       <module name="Selenium Review" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review5.*" />
+          <option name="PATTERN" value="review6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HandlingDropDown3WithoutSelect" />
-        <item itemvalue="Application.HandlingDropDown2" />
-        <item itemvalue="Application.HandlingDropDowns" />
-        <item itemvalue="Application.FileUpload" />
-        <item itemvalue="Application.ActionsClassHover" />
+        <item itemvalue="Application.HandlingExplicitWait" />
+        <item itemvalue="Application.HandlingImplicitWait" />
+        <item itemvalue="Application.TakeScreenShots" />
+        <item itemvalue="Application.HandlingWindows" />
+        <item itemvalue="Application.HandlingDatePicker" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +148,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/review5/HandlingDropDown3WithoutSelect.java</url>
-          <line>29</line>
+          <line>32</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
